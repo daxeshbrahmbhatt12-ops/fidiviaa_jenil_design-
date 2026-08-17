@@ -1,0 +1,20 @@
+{
+  "short_name": "Fidiviaa",
+  "name": "Fidiviaa — Healthcare Revenue Cycle & IT Services",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 48x48 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00a5b0",
+  "background_color": "#ffffff"
+}
